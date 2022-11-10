@@ -1,6 +1,3 @@
-#Lista Unidade 6 - Lucas Gentil Menegatti - RA 4201000
-###### Questão 1 ######
-
 import pygame
 from pygame.locals import *
 from OpenGL.GL import *
